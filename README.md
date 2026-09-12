@@ -1,6 +1,7 @@
 # CST-DEPARTMENT
 It is my first college project. The project is create a simple website for computer department 
-<img width="1920" height="1080" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/62addba6-3471-4621-b0d1-aa1a8a1a6ea7" />
+<img width="1920" height="1080" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/49f6ab8b-f5b6-4551-b332-9938aa8f9d2e" />
+
 <img width="1920" height="1080" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/6553e547-d81d-4eb0-914d-052abb628fff" />
 
 # DATABASE - MYSQL
